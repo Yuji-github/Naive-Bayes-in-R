@@ -1,1 +1,1 @@
-# Navive-Bayes-in-R
+# Naive-Bayes-in-R
